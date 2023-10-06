@@ -1,0 +1,35 @@
+Name: Tags
+Type: FolderType
+Children:
+- Name: Motore1
+  Id: g=573da58b8ad7ec486e87c6b625e2ccee
+  Type: TagStructure
+  DataType: Int32
+  Value: 0
+  Children:
+  - Name: Variable1
+    Id: g=e93cc783d37e5b7e29b2ddf03dea684c
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 0
+  - Name: Variable2
+    Id: g=0d10e063d3f03f6decc125f07319ce52
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 0
+- Name: Motore2
+  Id: g=c2377c43a64c75edb7278af99d5b291d
+  Type: TagStructure
+  DataType: Int32
+  Value: 0
+  Children:
+  - Name: Variable1
+    Id: g=cb940e79f962fe9c4d12e8769e69ed9a
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 0
+  - Name: Variable2
+    Id: g=6d7d9ff93add4affc357c31b4b8026fd
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 0
